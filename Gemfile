@@ -36,4 +36,5 @@ gem 'turbolinks', '1.0.0'
 gem 'jbuilder', '1.0.1'
 
 group :production do
+    gem 'sqlite3', '1.3.7'
 end

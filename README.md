@@ -1,5 +1,5 @@
-# Ruby on Rails Tutorial: sample application
+# Twitter like "sample rails app": Microblogging Application
 
-This is the reference implementation of the sample application for
-the [*Ruby on Rails Tutorial*](http://railstutorial.org/)
-by [Michael Hartl](http://michaelhartl.com/).
+This is the reference implementation of the Microblogging Application for
+the [*Twitter like "sample rails app"*](http://railstutorial.org/)
+by [Tarun Jadhwani](http://github.com/tarunjadhwani).
