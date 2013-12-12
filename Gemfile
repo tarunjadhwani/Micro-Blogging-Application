@@ -36,5 +36,6 @@ gem 'turbolinks', '1.0.0'
 gem 'jbuilder', '1.0.1'
 
 group :production do
-    gem 'pg', '9.3'
+    gem 'pg', '0.15.1'
+    gem 'rails_12factor', '0.0.2'
 end
